@@ -75,7 +75,7 @@ export default function UserIdScreen({
       <CardFooter className="flex justify-center">
         <div className="text-gray-500 text-sm flex items-center gap-2">
           <div className="w-2 h-2 bg-green-400 rounded-full" />
-          powered by HyperVerge
+          powered by Shubham
         </div>
       </CardFooter>
     </>

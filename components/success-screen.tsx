@@ -268,7 +268,7 @@ export default function SuccessScreen({
           <CardFooter className="flex flex-col space-y-3 pt-4">
             <div className="text-gray-500 text-xs flex items-center gap-2">
               <div className="w-1.5 h-1.5 bg-green-400 rounded-full" />
-              powered by HyperVerge
+              powered by Shubham
             </div>
           </CardFooter>
         </div>
